@@ -1,0 +1,12 @@
+{
+    "plugins": ["expandable-chapters-small",
+        "-lunr", "-search", "search-plus",
+        "splitter"
+    ],
+
+    "pluginsConfig": {
+        "theme-default": {
+             "showLevel": true
+        }
+    }
+}
